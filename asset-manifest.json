@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jigarthakkar24/ToDoReactApp.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/jigarthakkar24/ToDoReactApp.git/static/js/main.5dfbecac.chunk.js",
+    "main.js.map": "/jigarthakkar24/ToDoReactApp.git/static/js/main.5dfbecac.chunk.js.map",
+    "runtime-main.js": "/jigarthakkar24/ToDoReactApp.git/static/js/runtime-main.fc4b7d6c.js",
+    "runtime-main.js.map": "/jigarthakkar24/ToDoReactApp.git/static/js/runtime-main.fc4b7d6c.js.map",
+    "static/js/2.76b0edab.chunk.js": "/jigarthakkar24/ToDoReactApp.git/static/js/2.76b0edab.chunk.js",
+    "static/js/2.76b0edab.chunk.js.map": "/jigarthakkar24/ToDoReactApp.git/static/js/2.76b0edab.chunk.js.map",
+    "static/js/3.409aed58.chunk.js": "/jigarthakkar24/ToDoReactApp.git/static/js/3.409aed58.chunk.js",
+    "static/js/3.409aed58.chunk.js.map": "/jigarthakkar24/ToDoReactApp.git/static/js/3.409aed58.chunk.js.map",
+    "index.html": "/jigarthakkar24/ToDoReactApp.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/jigarthakkar24/ToDoReactApp.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.76b0edab.chunk.js.LICENSE.txt": "/jigarthakkar24/ToDoReactApp.git/static/js/2.76b0edab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc4b7d6c.js",
+    "static/js/2.76b0edab.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5dfbecac.chunk.js"
+  ]
+}
